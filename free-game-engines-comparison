@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Free Game Engines – Comparison</title>
+<meta name="description" content="Independent comparison of truly free game engines like Godot, Roblox, Core Engine, Unity free tier, and Unreal Engine.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{font-family:Arial,Helvetica,sans-serif;line-height:1.6;margin:20px;background:#fafafa}
+.engine{border-left:5px solid #2a9d8f;padding:15px;margin-bottom:25px;background:#fff}
+.engine h2{margin-top:0}
+.note{color:#555;font-size:0.9em}
+</style>
+</head>
+<body>
+
+<h1>Free Game Engines (No Subscription Priority)</h1>
+<p>This page lists game engines that are <strong>free to start</strong>, focusing on long-term usability, freedom, and low maintenance.</p>
+
+<div class="engine">
+<h2>Godot (100% Free & Open Source)</h2>
+<p><strong>Cost:</strong> Free forever, no royalties</p>
+<p>Best choice for indie developers who want full control without licensing risk.</p>
+</div>
+
+<div class="engine">
+<h2>Roblox</h2>
+<p><strong>Cost:</strong> Free platform, revenue share on earnings</p>
+<p>Ideal for social and multiplayer games with built-in audience.</p>
+</div>
+
+<div class="engine">
+<h2>Core Engine</h2>
+<p><strong>Cost:</strong> Free to use, platform-based monetization</p>
+<p>Fast multiplayer prototyping inside Core ecosystem.</p>
+</div>
+
+<div class="engine">
+<h2>Unity (Free Tier)</h2>
+<p><strong>Cost:</strong> Free below revenue threshold</p>
+<p>Strong cross-platform support but licensing terms should be monitored.</p>
+</div>
+
+<div class="engine">
+<h2>Unreal Engine</h2>
+<p><strong>Cost:</strong> Free to use, royalty after threshold</p>
+<p>High-end visuals, heavier workflow.</p>
+</div>
+
+<p class="note">Last updated: 2025 • Static page • No tracking • No ads</p>
+
+</body>
+</html>
